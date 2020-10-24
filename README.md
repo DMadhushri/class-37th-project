@@ -1,1 +1,2 @@
-# class-37th-project
+# C37-CAMERA.x
+Modified Trex Game to use camera.x as trex.x
